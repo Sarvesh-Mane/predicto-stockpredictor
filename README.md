@@ -20,5 +20,15 @@ Predicto Stock Predictor is a machine learning-based web application designed to
 - **HTML/CSS:** Frontend development for the web interface.
 - **Bootstrap:** CSS framework used for responsive design.
 
+## Getting Started
+
+To run the application locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```
+   git clone https://github.com/Sarvesh-Mane/predicto-stockpredictor.git
+   cd predicto-stockpredictor
+  ```
 
 
