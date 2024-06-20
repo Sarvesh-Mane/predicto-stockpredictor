@@ -29,6 +29,19 @@ To run the application locally, follow these steps:
    ```
    git clone https://github.com/Sarvesh-Mane/predicto-stockpredictor.git
    cd predicto-stockpredictor
-  `
+   ```
+2. **Install dependencies:**
+
+   ```
+   pip install -r requirements.txt
+   ```
+3. **Run the application:**
+
+   ```
+   python app.py
+   ```
+The application will start running locally on http://localhost:5000/.
+
+
 
 
