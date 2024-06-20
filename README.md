@@ -42,6 +42,14 @@ To run the application locally, follow these steps:
    ```
 The application will start running locally on http://localhost:5000/.
 
+## Usage
+
+1.Open your web browser and navigate to http://localhost:5000/.
+2.Input the necessary stock data (e.g., stock symbol, historical data).
+3.Select the prediction model (e.g., Linear Regression, Random Forest).
+4.Click on the "Predict" button to get the predicted stock prices.
+5.View the interactive charts and graphs displaying historical data and predictions.
+
 
 
 
