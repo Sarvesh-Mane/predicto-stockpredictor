@@ -1,0 +1,68 @@
+.App {
+  background-color: #0f0f0f;
+  color: white;
+}
+
+.navbar {
+  background-color: #1b202a;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.Title_main {
+  flex-grow: 1;
+  font-family: 'PT Serif', serif;
+  color: #e8f6ef;
+  font-size: large;
+}
+
+.home-icon {
+  color: #e8f6ef;
+  margin-right: 10px;
+}
+
+.nav-link {
+  margin-left: 20px;
+}
+
+.form-container {
+  margin: 5%;
+  padding: 40px;
+  background-color: #768aad;
+  border-radius: 10px;
+}
+
+.prediction {
+  margin-top: 20px;
+}
+
+.loading-message {
+  color: #e8f6ef;
+}
+
+.plot-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #768aad;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.plot-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+
+.contact-container {
+  background-color: #202630;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.carousel .legend {
+  display: none; /* Remove the legend text */
+}
