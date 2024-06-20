@@ -29,6 +29,6 @@ To run the application locally, follow these steps:
    ```
    git clone https://github.com/Sarvesh-Mane/predicto-stockpredictor.git
    cd predicto-stockpredictor
-  ```
+  `
 
 
